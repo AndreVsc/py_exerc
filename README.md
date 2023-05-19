@@ -1,2 +1,2 @@
-# py_exerc
+# 45 - Exercícios Python
 Exercícios completos de Python
